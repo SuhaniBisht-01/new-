@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16d683cf-e5ea-4ca3-b6e8-f4235b619fca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/scikit_learn-1.5.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/scikit_learn-1.5.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/scikit_learn-1.5.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/scikit_learn-1.5.0.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/scikit_learn-1.5.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/__check_build/__init__ 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/__check_build/_check_build 2.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/__check_build/_check_build.cpython-312-darwin 2.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/__check_build/meson 2.build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/_loss/__init__ 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/_loss/_loss 2.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/_loss/_loss.cpython-312-darwin 2.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/_loss/_loss.pyx 2.tp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/_loss/link 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/_loss/loss 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/_loss/meson 2.build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/__init__ 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_affinity_propagation 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_agglomerative 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_bicluster 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_birch 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_bisect_k_means 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_dbscan 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_dbscan_inner 2.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_dbscan_inner.cpython-312-darwin 2.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_feature_agglomeration 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_hierarchical_fast 2.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_hierarchical_fast 2.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_hierarchical_fast.cpython-312-darwin 2.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_k_means_common 2.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_k_means_common 2.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_k_means_common.cpython-312-darwin 2.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_k_means_elkan 2.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_k_means_elkan.cpython-312-darwin 2.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_k_means_lloyd 2.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_k_means_lloyd.cpython-312-darwin 2.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_k_means_minibatch 2.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_k_means_minibatch.cpython-312-darwin 2.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_kmeans 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_mean_shift 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_optics 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/_spectral 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/cluster/meson 2.build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/compose/__init__ 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/compose/_column_transformer 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/compose/_target 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/compose/tests/test_column_transformer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/compose/tests/test_target.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/ensemble/__init__ 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/ensemble/_bagging 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/ensemble/_base 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/ensemble/_forest 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/ensemble/_gb 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/ensemble/_gradient_boosting 2.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/ensemble/_gradient_boosting.cpython-312-darwin 2.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/ensemble/_iforest 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/ensemble/_stacking 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/ensemble/_voting 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/ensemble/_weight_boosting 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/ensemble/meson 2.build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/experimental/__init__ 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/experimental/enable_halving_search_cv 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/experimental/enable_hist_gradient_boosting 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/experimental/enable_iterative_imputer 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/__init__ 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/_dict_vectorizer 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/_hash 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/_hashing_fast 2.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/_hashing_fast.cpython-312-darwin 2.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/_stop_words 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/image 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/meson 2.build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/gaussian_process/__init__ 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/gaussian_process/_gpc 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/gaussian_process/_gpr 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/gaussian_process/kernels 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_dist_metrics.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_dist_metrics.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_dist_metrics.pxd.tp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_dist_metrics.pyx.tp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/_argkmin.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/_argkmin.pxd.tp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/_argkmin.pyx.tp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/_argkmin_classmode.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/_argkmin_classmode.pyx.tp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/_base.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/_base.pxd.tp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/_base.pyx.tp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/_classmode.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/_datasets_pair.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/_datasets_pair.pxd.tp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/_datasets_pair.pyx.tp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/_dispatcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/_middle_term_computer.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/_middle_term_computer.pxd.tp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/_middle_term_computer.pyx.tp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/_radius_neighbors.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/_radius_neighbors.pxd.tp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/_radius_neighbors.pyx.tp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/_radius_neighbors_classmode.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/_radius_neighbors_classmode.pyx.tp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/meson.build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_fast.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_pairwise_fast.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_plot/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_plot/det_curve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_ranking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/_scorer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/cluster/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/cluster/_bicluster.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/cluster/_expected_mutual_info_fast.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/cluster/_expected_mutual_info_fast.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/cluster/_supervised.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/cluster/_unsupervised.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/cluster/meson.build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/cluster/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/cluster/tests/test_bicluster.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/cluster/tests/test_common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/cluster/tests/test_supervised.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/cluster/tests/test_unsupervised.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/meson.build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/tests/test_classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/tests/test_common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/tests/test_dist_metrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/tests/test_pairwise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/tests/test_pairwise_distances_reduction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/tests/test_ranking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/tests/test_regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/metrics/tests/test_score_objects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/semi_supervised/__init__ 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/semi_supervised/_label_propagation 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/semi_supervised/_self_training 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/tree/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/tree/_classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/tree/_criterion.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/tree/_criterion.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/tree/_criterion.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/tree/_export.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/tree/_reingold_tilford.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/tree/_splitter.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/tree/_splitter.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/tree/_splitter.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/tree/_tree.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/tree/_tree.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/tree/_tree.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/tree/_utils.cpython-312-darwin.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/tree/_utils.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/tree/_utils.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/tree/meson.build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/tree/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/tree/tests/test_export.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/tree/tests/test_monotonic_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/tree/tests/test_reingold_tilford.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/.venv/lib/python3.12/site-packages/sklearn/tree/tests/test_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pythonProject" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2s4S7NgGsg2gnHVyc1TmhzLzacO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.app1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/suhanibisht/Desktop/Suhani Bisht/Movie-recommendor-System"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Movie-recommendor-System" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonProject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonProject/app1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16d683cf-e5ea-4ca3-b6e8-f4235b619fca" name="Changes" comment="" />
+      <created>1737713185909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737713185909</updated>
+    </task>
+    <servers />
+  </component>
+</project>
